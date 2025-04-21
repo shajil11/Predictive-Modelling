@@ -23,5 +23,5 @@ This project is divided into two parts, both aimed at applying core predictive m
 
 ## Datasets Used
 
-- **Computer Activity Dataset** – Used for regression modeling.
-- **Contraceptive Method Choice Dataset** – Used for classification modeling.
+- **compactiv** – Used for regression modeling.
+- **Contraceptive_method_dataset** – Used for classification modeling.
